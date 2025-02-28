@@ -8,10 +8,10 @@ A Collection in Java is a framework that provides an architecture to store and m
 - It provides dynamic memory allocation, unlike arrays which have a fixed size.
 - It allows easy addition, deletion, searching, and sorting of elements.
 
-## List Interface in Java
+# List Interface in Java
 
 The List interface in Java is part of the Collections Framework and is used to store ordered and indexed elements, allowing duplicates.
-# Key Features of List
+## Key Features of List
 - Ordered Collection → Elements are stored in the order they are inserted.
 - Allows Duplicates → Can have repeated elements.
 - Index-based Access → Elements can be accessed using an index (list.get(index)).

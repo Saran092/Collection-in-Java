@@ -20,11 +20,18 @@ The List interface in Java is part of the Collections Framework and is used to s
 
 ## Basic ArrayList Operation
 
-    add(E e)	Adds an element to the list
-    add(int index, E e)	Adds element at a specific index
-    get(int index)	Returns element at the given index
-    remove(Object o)	Removes first occurrence of given element
-    remove(int index)	Removes element at the specified index
-    set(int index, E e)	Replaces the element at the given index
-    size()	Returns the number of elements in the list
-    contains(Object o)	Checks if the list contains the element
+    add(E e)	                Adds an element to the list
+
+    add(int index, E e)	        Adds element at a specific index
+
+    get(int index)	            Returns element at the given index
+
+    remove(Object o)	        Removes first occurrence of given element
+
+    remove(int index)	        Removes element at the specified index
+
+    set(int index, E e)	        Replaces the element at the given index
+
+    size()	                    Returns the number of elements in the list
+    
+    contains(Object o)	        Checks if the list contains the element

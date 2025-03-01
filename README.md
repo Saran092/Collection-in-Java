@@ -24,7 +24,7 @@ The List interface in Java is part of the Collections Framework and is used to s
 
     add(int index, E e)	        Adds element at a specific index
 
-    get(int index)	            Returns element at the given index
+    get(int index)	                Returns element at the given index
 
     remove(Object o)	        Removes first occurrence of given element
 
@@ -32,6 +32,6 @@ The List interface in Java is part of the Collections Framework and is used to s
 
     set(int index, E e)	        Replaces the element at the given index
 
-    size()	                    Returns the number of elements in the list
-    
+    size()	                        Returns the number of elements in the list
+
     contains(Object o)	        Checks if the list contains the element

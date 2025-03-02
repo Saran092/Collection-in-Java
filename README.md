@@ -35,3 +35,9 @@ The List interface in Java is part of the Collections Framework and is used to s
     size()	                        Returns the number of elements in the list
 
     contains(Object o)	        Checks if the list contains the element
+
+# LinkedList
+
+    - LinkedList is a doubly linked list implementation in Java.
+    - It allows fast insertions and deletions compared to ArrayList.
+    - It implements List and Deque interfaces.

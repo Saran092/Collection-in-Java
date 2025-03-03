@@ -31,5 +31,10 @@ public class ListLink {
         linked.removeLast(); // 👈 Remove Last Element
         linked.remove(0); // 👈 Remove Element by Index
 
+        System.out.println("\nAfter Removed Element in LinkedList");
+        for(String ele : linked)
+        {
+            System.out.println(ele);
+        }
     }
 }

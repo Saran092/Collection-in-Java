@@ -36,5 +36,10 @@ public class ListLink {
         {
             System.out.println(ele);
         }
+
+        // 👇 Checking Element in LinkedList
+
+        System.out.println(linked.contains("John")); // 👈 Just Return true or false
+        System.out.println(linked.contains("Saran"));
     }
 }

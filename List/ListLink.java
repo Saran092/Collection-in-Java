@@ -20,10 +20,9 @@ public class ListLink {
             System.out.println(ele);
         }
 
-
-
-
-        // System.out.println(linked);
+        System.out.println("First Ele : "+ linked.getFirst()); // 👈 Get First Element
+        System.out.println("Last Ele : "+ linked.getLast());  // 👈 Get Last Element
+        System.out.println("By Index : "+ linked.get(1)); // 👈 Get Element by Index
 
     }
 }

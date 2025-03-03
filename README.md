@@ -41,3 +41,17 @@ The List interface in Java is part of the Collections Framework and is used to s
     - LinkedList is a doubly linked list implementation in Java.
     - It allows fast insertions and deletions compared to ArrayList.
     - It implements List and Deque interfaces.
+
+## Basic LinkedList Operation
+
+    add(E e)	Adds an element at the end of the list
+    add(int index, E e)	Inserts an element at the specified position
+    addFirst(E e)	Adds an element at the beginning of the list
+    addLast(E e)	Adds an element at the end of the list (same as add(E e))
+    get(int index)	Returns the element at the given index
+    getFirst()	Retrieves the first element
+    getLast()	Retrieves the last element
+    remove(int index)	Removes the element at the given index
+    remove(Object o)	Removes the first occurrence of the specified element
+    removeFirst()	Removes and returns the first element
+    removeLast()	Removes and returns the last element

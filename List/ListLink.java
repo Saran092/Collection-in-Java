@@ -41,5 +41,13 @@ public class ListLink {
 
         System.out.println(linked.contains("John")); // 👈 Just Return true or false
         System.out.println(linked.contains("Saran"));
+
+        // 👈👇 Iterator Interface 
+        System.out.println("\nIterator for Print");
+        Iterator<String> it = linked.iterator();
+        while (it.hasNext()) {
+            System.out.println(it.next());
+        }
+
     }
 }

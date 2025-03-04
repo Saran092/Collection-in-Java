@@ -65,3 +65,9 @@ The List interface in Java is part of the Collections Framework and is used to s
     removeFirst()	            Removes and returns the first element
     
     removeLast()	            Removes and returns the last element
+
+    set(int index, E e)	    Replaces the element at the given index
+
+    size()	                Returns the number of elements in the list
+
+    contains(Object o)	    Checks if the list contains the element

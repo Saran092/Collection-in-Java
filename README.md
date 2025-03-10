@@ -73,3 +73,17 @@ The List interface in Java is part of the Collections Framework and is used to s
     size()	                    Returns the number of elements in the list
 
     contains(Object o)	    Checks if the list contains the element
+    
+    clear()	                    Removes all elements from the list
+    
+    indexOf(Object o)	    Returns the index of the first occurrence of the specified element
+    
+    lastIndexOf(Object o)	    Returns the index of the last occurrence of the specified element
+    
+    peekFirst()	            Retrieves, but does not remove, the first element
+    
+    peekLast()	            Retrieves, but does not remove, the last element
+    
+    pollFirst()                 Retrieves and removes the first element, or returns null if empty
+    
+    pollLast()	            Retrieves and removes the last element, or returns null if empty

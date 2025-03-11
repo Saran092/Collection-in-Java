@@ -87,3 +87,11 @@ The List interface in Java is part of the Collections Framework and is used to s
     pollFirst()                 Retrieves and removes the first element, or returns null if empty
     
     pollLast()	            Retrieves and removes the last element, or returns null if empty
+
+# Set
+The Set interface in Java represents a collection of unique elements, meaning it does not allow duplicates. It is commonly used when you need to store a group of distinct elements.
+
+ **Key Features of Set**
+ - No duplicates allowed
+ - Unordered (HashSet) or sorted (TreeSet) storage
+ - Faster lookups compared to lists

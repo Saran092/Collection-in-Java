@@ -9,5 +9,8 @@ public class SetExample {
         names.add("Saran"); // 👈 Duplicate, ignored
 
         System.out.println(names); // 👈 Unordered Output
+
+
+        Sc.close();
     }
 }

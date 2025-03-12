@@ -95,3 +95,6 @@ The Set interface in Java represents a collection of unique elements, meaning it
  - No duplicates allowed
  - Unordered (HashSet) or sorted (TreeSet) storage
  - Faster lookups compared to lists
+
+## HashSet in Java 
+HashSet is the most commonly used Set implementation in Java. It is fast because it uses a hash table for storing elements.

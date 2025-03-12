@@ -98,3 +98,19 @@ The Set interface in Java represents a collection of unique elements, meaning it
 
 ## HashSet in Java 
 HashSet is the most commonly used Set implementation in Java. It is fast because it uses a hash table for storing elements.
+
+## Basic HashSet Operation
+
+    - add(E e)	Adds an element to the set
+
+    - remove(Object o)	Removes an element from the set
+
+    - contains(Object o)	Checks if the set contains the element
+
+    - size()	Returns the number of elements
+
+    - isEmpty()	Checks if the set is empty
+
+    - clear()	Removes all elements
+
+    - iterator()	Returns an iterator for traversal
